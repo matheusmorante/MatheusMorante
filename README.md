@@ -2,9 +2,9 @@
 
 <h1>Olá, eu sou o Matheus Morante</h1>
 <ul>
-  <li>📗 Cursando o segundo periodo de Gestão da Tecnologia da Informação</li>
-  <li>🔎 Buscando uma oportunidade de estágio nessa área</li>
-  <li>🎯 Focando em programação Full Stack</li>
+  <li>📗 Curso o segundo periodo de Gestão da Tecnologia da Informação</li>
+  <li>🔎 Busco uma oportunidade de estágio nessa área</li>
+  <li>🎯 Estou focando em programação Full Stack</li>
 </ul>
 </ul>
 <div>
