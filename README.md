@@ -7,7 +7,7 @@
 </ul>
 <div>
   <h1>Minhas Redes Sociais</h1>
-  <a href="https://www.linkedin.com/in/matheusmorante/" >
+  <a href="https://github.com/matheusmorante" >
     <img src="https://img.icons8.com/color/344/linkedin-circled--v1.png" style="height:40px">
   </a>
   <a href="discordapp.com/users/MatheusMorante#7378">
