@@ -5,7 +5,7 @@
        Sistemas 
   </li>
   <li>🎯 Estou focado em programação Frontend</li>
-  <li>🔎 Busco uma oportunidade de estágio como desenvolvedor</li>
+  <li>🔎 Busco uma oportunidade de estágio/trainee como desenvolvedor</li>
 </ul>
 </ul>
 <div>
