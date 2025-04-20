@@ -1,7 +1,9 @@
 <h1>Olá, eu sou o Matheus Morante</h1>
 <ul>
-  <li>📗 Curso 2 superiores, Gestão da Tecnologia da Informação (quinto e ultimo período) e Análise e Desenvolvimento de     
-       Sistemas (quarto período) </li>
+  <li>
+      📗 Formado em Gestão da Tecnologia da Informação e Análise e Desenvolvimento de     
+       Sistemas 
+  </li>
   <li>🎯 Estou focado em programação Frontend</li>
   <li>🔎 Busco uma oportunidade de estágio para Desenvolvedor Frontend</li>
 </ul>
